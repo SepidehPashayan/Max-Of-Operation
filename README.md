@@ -30,7 +30,7 @@ Then returns the **maximum** result among all six.
 ### Run
 
 ```bash
-python main.py
+python company.py
 ```
 
 ### Input format
