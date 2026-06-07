@@ -64,7 +64,7 @@ The program keeps prompting until valid input is received.
 
 ```
 max-expression/
-└── main.py     # Input handler + expression evaluator
+└── company.py     # Input handler + expression evaluator
 ```
 
 ---
